@@ -37,4 +37,17 @@
   }
 }
 
+.counter {
+  display: flex;
+  width: 150px;
+  flex-direction: column;
+  margin: auto;
+}
 
+.counter button {
+  margin-bottom: 5px;
+}
+
+.counter h1 {
+  margin-bottom: 10px;
+}
